@@ -1,6 +1,8 @@
-# Module bindings demo
+# Demo: imports are views
 
-This repo contains the following directories:
+In ES6 modules, imports are read-only views on exports. The code in this repository demonstrates that fact.
+
+Description of the directories:
 
 * `es6`: ES6 code that demonstrates that imports are views on exports.
 * `es6_for_babel`: A version of `es/` that can be transpiled by Babel.
